@@ -1,0 +1,31 @@
+body{
+
+    margin: 0;
+    background-color:white;
+}
+div{
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #fafdfc;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding: 80px;
+    box-shadow: 0 0 3px seagreen;
+}
+h1{
+	  margin: 0;
+    font-size: 80px;
+    color:seagreen;
+    text-transform: capitalize;
+
+}
+span{
+	color: #8081a4;
+	text-transform: capitalize;
+}
+p{
+	margin: 0;
+    line-height: 1.6;
+    text-align: justify;
+}
